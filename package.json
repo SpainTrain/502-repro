@@ -1,0 +1,15 @@
+{
+  "name": "502-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spaintrain <mcspainhower+npm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.5.1"
+  }
+}
