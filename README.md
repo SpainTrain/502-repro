@@ -1,5 +1,7 @@
 # Reproduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SpainTrain/502-repro.svg)](https://greenkeeper.io/)
+
 1.  `./index.js` displays correctly
 2.  `./some-dir/index.js` correctly displays `no-undef` error, but not `no-unused-vars` which should cascade
 3.  run `npm run lint` to verify
