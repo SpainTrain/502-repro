@@ -10,6 +10,6 @@
   "author": "spaintrain <mcspainhower+npm@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^2.5.1"
+    "eslint": "^3.19.0"
   }
 }
